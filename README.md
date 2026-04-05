@@ -42,7 +42,7 @@ This file allows WordPress to connect to the MySQL database.
 sudo chmod -R 755 /var/www/html/wordpress]
 
 ## Step 7: Complete Installation via Browser
-I accessed WordPress in a web browser using http://35.184.73.236/wordpress/
+I accessed WordPress in a web browser using [http://35.184.73.236/wordpress/] (http://35.184.73.236/wordpress/wp-admin/)
 
 ## Complications & Reflection
 One of the main issues I encountered was that the WordPress directory did not initially exist because the zip file had not been extracted. Additionally, the unzip utility was missing, which prevented extraction. Installing unzip resolved this issue.
